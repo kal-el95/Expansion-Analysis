@@ -45,8 +45,7 @@ After analyzing the data, the recommended top three cities for new store opening
 
 **City 2: Delhi**  
 1. Highest estimated Pizza consumers at 7.7 million.  
-2. Highest total number of customers, which is 68.  
-3. Average rent per customer is 330 (still under 500).
+2. Average rent per customer is 330 (still under 500).
 
 **City 3: Jaipur**   
 1. Average rent per customer is very low at 156.  
